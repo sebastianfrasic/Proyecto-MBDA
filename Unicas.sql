@@ -1,0 +1,2 @@
+--Unicas--
+ALTER TABLE Personas ADD CONSTRAINT UK_PERSONAS UNIQUE (correo);
